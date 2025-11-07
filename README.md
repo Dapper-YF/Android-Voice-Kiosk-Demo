@@ -42,8 +42,6 @@ This public demo showcases the core technical solutions, with all commercial-sen
 
 ## / 中文说明
 
-你好！我是一名大二的软件工程学生 Dapper-YF。
-
 这个项目是我在大学期间承接的一个真实**智能交互产品的外包项目**。它完整地记录了我如何将一个客户的商业需求，通过技术调研和编码实践，最终落地为一个成熟产品的过程。
 
 ### 项目背景与演进
